@@ -8,7 +8,9 @@ public class swapint{
         b=0;
         temp=a;
         System.out.println("after swapping");
-        System.out.println("swapped number is:" +temp);
+        System.out.println("swapped number 1:" +temp);
+        System.out.println("Swapped number 2:"+a);
+        
        
     }
 }
