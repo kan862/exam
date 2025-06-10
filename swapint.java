@@ -9,7 +9,7 @@ public class swapint{
         temp=a;
         System.out.println("after swapping");
         System.out.println("swapped number 1:" +temp);
-        System.out.println("Swapped number 2:"+a);
+        System.out.println("Swapped number 2:"+b);
         
        
     }
